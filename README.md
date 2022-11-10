@@ -8,7 +8,7 @@ Ordering and transportation optimization of raw material is a classic problem in
 ## Enviroment
 ```
 python 3.9.12
-Gurobi 10.0.0 ([download](https://www.gurobi.com/downloads/gurobi-software/), [license](https://www.gurobi.com/downloads/free-academic-license/))
-SciencePlots ([detail](https://github.com/garrettj403/SciencePlots))
+Gurobi 10.0.0:[download](https://www.gurobi.com/downloads/gurobi-software/), [license](https://www.gurobi.com/downloads/free-academic-license/)
+SciencePlots:[detail](https://github.com/garrettj403/SciencePlots)
 numpy pandas sympy statsmodels matplotlib
 ```
