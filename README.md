@@ -15,7 +15,8 @@ numpy pandas sympy statsmodels matplotlib
 ```
 
 ## Note
-The running results of this repository code are updated compared to the paper results. 
+The running results of this repository code are updated compared to the paper results.
+
 Please understand if there are any discrepancies.
 
 ## Citation
