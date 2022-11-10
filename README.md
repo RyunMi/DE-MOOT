@@ -10,7 +10,7 @@ Ordering and transportation optimization of raw material is a classic problem in
 python 3.9.12
 Gurobi 10.0.0 (download: https://www.gurobi.com/downloads/gurobi-software/
 license: https://www.gurobi.com/downloads/free-academic-license/)
-SciencePlots:[detail](https://github.com/garrettj403/SciencePlots)
+SciencePlots (detail: https://github.com/garrettj403/SciencePlots)
 numpy pandas sympy statsmodels matplotlib
 ```
 
@@ -19,7 +19,7 @@ The running results of this repository code are updated compared to the paper re
 Please understand if there are any discrepancies.
 
 ## Citation
-If our work help to your research, please cite our paper, thx.
+If our work help to your research, please cite our paper, thank you.
 ```
 @INPROCEEDINGS{9852530,
     author={Mi, Kerun and Gu, Hai and Liu, Jiacheng and Yang, Liu},
@@ -31,3 +31,4 @@ If our work help to your research, please cite our paper, thx.
     pages={653-658},
     doi={10.1109/CACML55074.2022.00114}}
 ```
+** Thanks to [Gurobi](https://www.gurobi.com/)'s excellent performance, the completion of this paper is inseparable from their wonderful work **
