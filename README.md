@@ -31,4 +31,4 @@ If our work help to your research, please cite our paper, thank you.
     pages={653-658},
     doi={10.1109/CACML55074.2022.00114}}
 ```
-** Thanks to [Gurobi](https://www.gurobi.com/)'s excellent performance, the completion of this paper is inseparable from their wonderful work **
+**Thanks to [Gurobi](https://www.gurobi.com/)'s excellent performance, the completion of this paper is inseparable from their wonderful work**
