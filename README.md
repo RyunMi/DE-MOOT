@@ -21,14 +21,13 @@ Please understand if there are any discrepancies.
 ## Citation
 If our work help to your research, please cite our paper, thank you.
 ```
-@INPROCEEDINGS{9852530,
+@inproceedings{mi2022research,
+    title={Research on Data-driven Enterprise Raw Material Ordering and Optimal Transportation Scheme},
     author={Mi, Kerun and Gu, Hai and Liu, Jiacheng and Yang, Liu},
     booktitle={2022 Asia Conference on Algorithms, Computing and Machine Learning (CACML)},
-    title={Research on Data-driven Enterprise Raw Material Ordering and Optimal Transportation Scheme},
+    pages={653--658},
     year={2022},
-    volume={},
-    number={},
-    pages={653-658},
-    doi={10.1109/CACML55074.2022.00114}}
+    organization={IEEE}
+}
 ```
-**Thanks to [Gurobi](https://www.gurobi.com/)'s excellent performance, the completion of this paper is inseparable from their wonderful work**
+**Thanks to [Gurobi](https://www.gurobi.com/)'s excellent performance, the completion of this paper is inseparable from their wonderful work.**
